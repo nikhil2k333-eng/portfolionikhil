@@ -32,7 +32,6 @@ const PROJECT_IMAGES = {
         coverImg: "Cenora Jewellery Branding.jpg",
 
         images: [
-            /* image 1 — replace with: "images/coffee/1.jpg" */
             "logo 2 rede-10.jpg",
             /* image 2 — replace with: "images/coffee/2.jpg" */
             "https://picsum.photos/seed/cf_g2/600/900",
