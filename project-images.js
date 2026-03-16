@@ -29,7 +29,7 @@ const PROJECT_IMAGES = {
     //   Card: data-project="coffee"
     // ─────────────────────────────────────────────────────────
     coffee: {
-        coverImg: "https://picsum.photos/seed/coffeebrand/1100/600",
+        coverImg: "Cenora Jewellery Branding.jpg",
 
         images: [
             /* image 1 — replace with: "images/coffee/1.jpg" */
