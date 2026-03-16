@@ -35,7 +35,6 @@ const PROJECT_IMAGES = {
             "logo 2 rede-10.jpg",
             "cenora box1.jpg",
             "only box design.jpg",
-            /* image 4 — replace with: "images/coffee/4.jpg" */
             "https://picsum.photos/seed/cf_g4/600/900",
             /* image 5 — replace with: "images/coffee/5.jpg" */
             "https://picsum.photos/seed/cf_g5/600/900"
