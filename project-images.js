@@ -26,14 +26,14 @@ const PROJECT_IMAGES = {
 
     // ─────────────────────────────────────────────────────────
     // PROJECT 1 — Cenora Jewellery Branding
-    //   Card: data-project="coffee"
+    //   Card: data-project="Cenora"
     // ─────────────────────────────────────────────────────────
     coffee: {
         coverImg: "Cenora Jewellery Branding.jpg",
 
         images: [
             /* image 1 — replace with: "images/coffee/1.jpg" */
-            "https://picsum.photos/seed/cf_g1/600/900",
+            "logo 2 rede-10.jpg",
             /* image 2 — replace with: "images/coffee/2.jpg" */
             "https://picsum.photos/seed/cf_g2/600/900",
             /* image 3 — replace with: "images/coffee/3.jpg" */
