@@ -63,7 +63,6 @@ const PROJECT_IMAGES = {
         coverImg: "https://picsum.photos/seed/fashionsocial/1100/600",
 
         images: [
-            /* image 1 — replace with: "images/fashion/1.jpg" */
             "https://picsum.photos/seed/fs_g1/600/900",
             /* image 2 — replace with: "images/fashion/2.jpg" */
             "https://picsum.photos/seed/fs_g2/600/900",
