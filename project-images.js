@@ -50,7 +50,6 @@ const PROJECT_IMAGES = {
 
         images: [
             "orave logo-25.jpg",
-            /* image 2 — replace with: "images/energydrink/2.jpg" */
             "https://picsum.photos/seed/ed_g2/600/900",
             /* image 3 — replace with: "images/energydrink/3.jpg" */
             "https://picsum.photos/seed/ed_g3/600/900",
