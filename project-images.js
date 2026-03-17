@@ -50,7 +50,7 @@ const PROJECT_IMAGES = {
         images: [
             "project2/project2.jpg",
             "project2/project3.jpeg",
-            "project2/project4.jpeg",
+            "project2/project5.jpeg",
             "https://picsum.photos/seed/ed_g5/600/900"
         ]
     },
