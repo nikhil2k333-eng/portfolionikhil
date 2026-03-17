@@ -34,7 +34,7 @@ const PROJECT_IMAGES = {
         images: [
             "project1/project2.JPEG",
             "project1/project3.JPEG",
-            "only box design.jpg",
+            "project1/project4.JPEG",
             "project1/project5.JPEG",
             "https://picsum.photos/seed/cf_g5/600/900"
         ]
