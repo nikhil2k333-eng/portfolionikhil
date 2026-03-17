@@ -45,7 +45,7 @@ const PROJECT_IMAGES = {
     // PROJECT 2 — Energy Drink Packaging
     //   Card: data-project="energydrink"
     // ─────────────────────────────────────────────────────────
-    Orave brand: {
+    energydrink: {
         coverImg: "orave 1 hero-24.jpg",
 
         images: [
