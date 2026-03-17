@@ -29,7 +29,7 @@ const PROJECT_IMAGES = {
     //   Card: data-project="Cenora"
     // ─────────────────────────────────────────────────────────
     coffee: {
-        coverImg: "Cenora Jewellery Branding.jpg",
+        coverImg: "project1/project1.JPEG",
 
         images: [
             "logo 2 rede-10.jpg",
