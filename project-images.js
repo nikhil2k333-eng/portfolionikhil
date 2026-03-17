@@ -45,7 +45,7 @@ const PROJECT_IMAGES = {
     //   Card: data-project="energydrink"
     // ─────────────────────────────────────────────────────────
     energydrink: {
-        coverImg: "orave 1 hero-24.jpg",
+        coverImg: "project2/project1.JPEG",
 
         images: [
             "project2/project2.jpg",
