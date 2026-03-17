@@ -36,7 +36,7 @@ const PROJECT_IMAGES = {
             "project1/project3.JPEG",
             "project1/project4.JPEG",
             "project1/project5.JPEG",
-            "https://picsum.photos/seed/cf_g5/600/900"
+            "project1/project6.JPEG"
         ]
     },
 
