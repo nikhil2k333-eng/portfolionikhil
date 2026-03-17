@@ -49,11 +49,8 @@ const PROJECT_IMAGES = {
 
         images: [
             "project2/project2.jpg",
-            /* image 3 — replace with: "images/energydrink/3.jpg" */
             "project2/project3.jpeg",
-            /* image 4 — replace with: "images/energydrink/4.jpg" */
-            "https://picsum.photos/seed/ed_g4/600/900",
-            /* image 5 — replace with: "images/energydrink/5.jpg" */
+            "project2/project4.jpeg",
             "https://picsum.photos/seed/ed_g5/600/900"
         ]
     },
