@@ -1,7 +1,7 @@
 const projectImages = {
     cenora: [
         "project1/project1.JPEG",
-        "images/cenora/2.jpg",
+        "project1/project2.JPEG",
         "images/cenora/3.jpg",
         "images/cenora/4.jpg",
         "images/cenora/5.jpg"
