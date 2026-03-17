@@ -45,8 +45,8 @@ const PROJECT_IMAGES = {
     // PROJECT 2 — Energy Drink Packaging
     //   Card: data-project="energydrink"
     // ─────────────────────────────────────────────────────────
-    energydrink: {
-        coverImg: "https://picsum.photos/seed/energydrink/1100/600",
+    Orave brand: {
+        coverImg: "orave 1 hero-24.jpg",
 
         images: [
             /* image 1 — replace with: "images/energydrink/1.jpg" */
