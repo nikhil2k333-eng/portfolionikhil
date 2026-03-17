@@ -49,7 +49,7 @@ const PROJECT_IMAGES = {
         coverImg: "orave 1 hero-24.jpg",
 
         images: [
-            "orave logo-25.jpg",
+            "project2/project2.jpg",
             "https://picsum.photos/seed/ed_g2/600/900",
             /* image 3 — replace with: "images/energydrink/3.jpg" */
             "https://picsum.photos/seed/ed_g3/600/900",
