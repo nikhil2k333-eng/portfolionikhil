@@ -32,7 +32,7 @@ const PROJECT_IMAGES = {
         coverImg: "project1/project1.JPEG",
 
         images: [
-            "logo 2 rede-10.jpg",
+            "project1/project2.JPEG",
             "project1/project3.JPEG",
             "only box design.jpg",
             "project1/project5.JPEG",
