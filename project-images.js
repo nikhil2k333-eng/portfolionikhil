@@ -33,7 +33,7 @@ const PROJECT_IMAGES = {
 
         images: [
             "logo 2 rede-10.jpg",
-            "cenora box1.jpg",
+            "project1/project3.JPEG",
             "only box design.jpg",
             "project1/project5.JPEG",
             "https://picsum.photos/seed/cf_g5/600/900"
